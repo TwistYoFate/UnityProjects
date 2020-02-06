@@ -4,8 +4,5 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes:
-  - enabled: 1
-    path: Assets/Scenes/GuessTheGameScene.unity
-    guid: 7b9b849fe36c6f1459014ce6609948e3
+  m_Scenes: []
   m_configObjects: {}
